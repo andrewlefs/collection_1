@@ -1,0 +1,11 @@
+<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
+$lang['title_home'] = 'PAY123 | Mua thẻ điện thoại - Mua thẻ game online';
+$lang['title_hoadon'] = 'Thanh toán hóa đơn';
+$lang['title_quatang'] = 'Quà tặng';
+$lang['title_taikhoan'] = 'Tài khoản';
+$lang['title_tintuc'] = 'Tin tức';
+$lang['title_dangki'] = 'Đăng ky tài khoản mới';
+$lang['title_dangnhap'] = 'Đăng nhập vào hệ thống';
+$lang['title_quenpass'] = 'Tìm lại mật khẩu';
+$lang['title_buy'] = 'Mua';
+$lang['title_all'] = 'Xem tất cả';

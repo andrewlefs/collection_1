@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="iso-8859-1"?> 
+<videoList>
+	<LoaderMax name="videoListLoader" maxConnections="1" prependURLs="assets/">		
+		<VideoLoader name="videoID0" url="NGAYHE_RUCRO.flv" height ="500" width="660" scaleMode="proportionalInside" centerRegistration="true" alpha="0" autoPlay="false" />
+	</LoaderMax> 
+</videoList> 

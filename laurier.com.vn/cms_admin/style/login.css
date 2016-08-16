@@ -1,0 +1,35 @@
+Input, Select{
+		font-family: Tahoma;
+		font-size: 11px;
+	}
+	body{
+		font-family: Tahoma;
+		font-size: 11px;
+		font-style:normal;
+	}
+	a:hover{
+		text-color:#D20000;
+		text-decoration: underline;
+		font-size: 11px;
+	}
+	a:link{
+		color: #3050AE;
+		text-decoration: none;
+		font-size: 11px;
+	}
+	a:visited{
+		color: #3050AE;
+		text-decoration: none;
+		font-size: 11px;
+	}
+	.Normal
+	{
+		font-family:tahoma;
+		font-size:12px;
+	}
+	.Fail
+	{
+		color: #FF0000;
+		font-size: 11px;
+		font-style:normal;
+	}

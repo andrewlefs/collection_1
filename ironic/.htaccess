@@ -1,0 +1,17 @@
+<FilesMatch "^(\.ht|config.php)">
+ Order allow,deny
+ Deny from all
+</FilesMatch>
+<IfModule mod_rewrite.c>
+
+	Options All -Indexes
+	RewriteEngine On
+
+	RewriteCond %{REQUEST_FILENAME} !-f
+
+	RewriteCond %{REQUEST_FILENAME} !-d
+
+		
+RewriteRule ^(.*).html$ ./index.php?url=$1 [L]
+
+</IfModule>

@@ -1,0 +1,27 @@
+@charset "utf-8";
+html {
+	overflow-x: hidden;
+	border:0;
+	margin:0;
+	padding:0;
+}
+	 
+body {
+  	color: #645856;
+  	font-family:Arial,Tahoma,UTMAvoFont;
+  	font-size: 14px;
+  	margin: 0px;
+  	padding: 0px;
+}
+.scrollcontent1-bar { 
+	width: 5px; 
+	background: #ccc; 
+	border-radius: 2px; 
+	box-shadow: inset 0px 0px 2px #FFFFFF; 
+	overflow: hidden; 
+}
+.scrollcontent1-drag { 
+	background: #81C84C; 
+	border-radius: 2px; 
+	cursor: pointer;
+}

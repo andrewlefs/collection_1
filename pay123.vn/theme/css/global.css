@@ -1,0 +1,11 @@
+.table-no-margin {
+  margin-bottom: 0;
+}
+
+.table tbody>tr>td.vert-middle {
+  vertical-align: middle;
+}
+
+.action-button {
+  margin-bottom: 10px;
+}

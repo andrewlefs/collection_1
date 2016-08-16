@@ -1,0 +1,1 @@
+<script>location.href="album/list.php"</script>

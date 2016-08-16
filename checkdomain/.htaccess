@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule kiem-tra-ten-mien/(.*)$ check.php?tenmien=$1

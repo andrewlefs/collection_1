@@ -1,0 +1,18 @@
+<content width="500" height="700" bgcolor="cccccc" loadercolor="ffffff" panelcolor="cccccc" buttoncolor="cccccc" textcolor="ffffff">
+	<page src="pages/Begin.jpg"/>
+	<page src="pages/Trang 1.jpg"/>
+	<page src="pages/Trang 2.jpg"/>
+	<page src="pages/Trang 3.jpg"/>
+	<page src="pages/Trang 4.jpg"/>
+	<page src="pages/Trang 5.jpg"/>
+	<page src="pages/Trang 6.jpg"/>
+	<page src="pages/Trang 7.jpg"/>
+	<page src="pages/Trang 8.jpg"/>
+	<page src="pages/Trang 9.jpg"/>
+	<page src="pages/Trang 10.jpg"/>
+	<page src="pages/Trang 11.jpg"/>
+	<page src="pages/Trang 12.jpg"/>
+	<page src="pages/Trang 13.jpg"/>
+	<page src="pages/Trang 14.jpg"/>
+	<page src="pages/TheEnd.jpg"/>
+</content>
